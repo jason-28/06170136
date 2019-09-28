@@ -1,2 +1,3 @@
 # 06170136
-This is my learning note
+這是Juicy的演算法學習筆記
+會分為上課的筆記及Leetcode程式碼

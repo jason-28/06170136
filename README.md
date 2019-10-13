@@ -1,3 +1,4 @@
-# 這是Juicy的演算法學習筆記
+# Welcome to My Learning Note
 
-會分為上課筆記,Leetcode程式碼及作業
+分為上課筆記,Leetcode程式碼及作業
+期許自己變得更好:

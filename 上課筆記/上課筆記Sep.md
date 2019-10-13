@@ -12,8 +12,11 @@
 
 * 缺點:找特定Node時需從頭開始走訪
 
+# Stack&Queue
 
-# Stack:
+<img src="https://i.imgur.com/ArHZkOR.png" width="600" height="250">
+
+### Stack:
 
 堆疊的概念（最後放的先拿）,像是網頁中的返回上一頁或是Microsoft office的還原上一步
 
@@ -23,7 +26,7 @@
 
 * IsEmpty用來確認是否有資料，getSize回傳資料個數
 
-# Queue:
+### Queue:
 
 排隊的概念（從後面開始排）,像作業系統被多個程式共享資源時(例如CPU、網站伺服器等，一次只能執行一個需求)，需要用Queue來安排順序
 

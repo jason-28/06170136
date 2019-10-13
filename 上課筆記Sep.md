@@ -1,5 +1,7 @@
 # Linkedlist:
 
+<img src="https://i.imgur.com/1Qc4uHD.png"  width="600" height="180">
+
 單向連結串列的每個節點只記錄了下一個節點(或者上一個節點)，而尾端的節點指向空值Null
 
 刪除節點的時候是刪除指定節點(node)後面的節點(node.next)，而不是刪除節點本身

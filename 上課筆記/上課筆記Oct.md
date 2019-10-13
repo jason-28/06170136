@@ -1,4 +1,7 @@
 # Insertion Sort:
+
+![](https://i.imgur.com/1JrragX.png)
+
 分為已排序(小到大)/未排序,以未排序資料中的第一筆為基準點(pivot)與之後的值比大小
 
 * 基準值<=該值,改設該值為基準點繼續比較

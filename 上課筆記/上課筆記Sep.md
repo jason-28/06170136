@@ -22,9 +22,9 @@
 
 * Push()是把資料放在最上面
 
-* Top只會回傳最後新增的值，PoP才會刪除
+* Top只會回傳最後新增的值,PoP才會刪除
 
-* IsEmpty用來確認是否有資料，getSize回傳資料個數
+* IsEmpty用來確認是否有資料,getSize回傳資料個數
 
 ### Queue:
 

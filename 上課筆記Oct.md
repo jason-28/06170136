@@ -1,1 +1,2 @@
 Insertion Sort
+以未排序資料中的第一筆為基準點

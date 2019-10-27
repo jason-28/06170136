@@ -1,17 +1,3 @@
-# Linkedlist:
-
-<img src="https://i.imgur.com/1Qc4uHD.png"  width="600" height="180">
-
-單向連結串列的每個節點只記錄了下一個節點(或者上一個節點),而**尾端的節點指向空值Null**
-
-刪除節點的時候是**刪除指定節點(node)後面的節點(node.next)，而不是刪除節點本身**
-
-雙向連結串列則同時記錄了下一個節點和上一個節點，除了尾端節點的下一個節點指向空值外，第一個節點的前一個節點也指向空值
-
-* 優點:新增刪除較Array方便,可以有效運用存儲空間
-
-* 缺點:找特定Node時需從頭開始走訪
-
 # Stack&Queue
 
 <img src="https://i.imgur.com/ArHZkOR.png" width="600" height="250">

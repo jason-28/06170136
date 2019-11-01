@@ -4,4 +4,5 @@ class Node:
     self.val=value
     self.left=None
     self.right=None
+    self.parent=None
     

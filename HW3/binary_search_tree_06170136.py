@@ -92,6 +92,15 @@ class Solution(object):
         :type new_val: int
         :rtype: None Do not return anything, modify nodes(maybe more than more) in-place instead.(cannot search())
         """
+        while root.left!=None:
+            self.modify(self, root.left, target, new_val)
+        while root.right!=None:
+             self.modify(self, root.right, target, new_val)
+        if root.val=target:
+            self.insert(root,new_val)
+            self.delete(root,target)
+        else:
+            return root
 """
 參考網址:https://www.google.com/url?q=https://youtu.be/YlgPi75hIBc&sa=D&ust=1573899284113000&usg=AFQjCNEeK-0kWFD7MSL8bB85iUq0EM_4Pw
 

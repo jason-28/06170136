@@ -1,5 +1,13 @@
 # 流程圖
 
+![](https://github.com/jason-28/06170136/blob/master/img/S__26288559.jpg)
+
+![](https://github.com/jason-28/06170136/blob/master/img/S__26288561.jpg)
+
+![]()
+
+![]()
+
 # 學習歷程
 
 Insert跟search的部分在看過上課ppt裡的影片後有了解概念並寫出程式碼

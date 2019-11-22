@@ -2,11 +2,11 @@
 
 ![](https://github.com/jason-28/06170136/blob/master/img/S__26288559.jpg)
 
+![](https://github.com/jason-28/06170136/blob/master/img/S__26288562.jpg)
+
 ![](https://github.com/jason-28/06170136/blob/master/img/S__26288561.jpg)
 
-![]()
-
-![]()
+![](https://github.com/jason-28/06170136/blob/master/img/S__26288563.jpg)
 
 # 學習歷程
 

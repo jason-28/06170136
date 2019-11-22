@@ -38,6 +38,34 @@ class Solution(object):
         :type target: int
         :rtype: None Do not return anything, delete nodes(maybe more than more) instead.(cannot search())
         """
+        if root==None:
+            return None
+        elif target<root.val:
+            root.left=self.delete(root.left,target)
+        elif target>root.val:
+            root.right=self.delete(root.right,target)
+        else:
+            if root.left==None and root.right==None:
+                self.delete(root,target)
+            elif root.left!=None and root.right==None:
+                if root.left.val=target:
+                    root.left=self.delete(root.left, target)
+                return root.left
+            elif root.left==None and root.right!=None:
+                if root.right.val=target:
+                    root.left=self.delete(root.left, target)
+                return root.right
+            else: 
+                if root.left.val=target:
+                    root.left=self.delete(root.left, target)
+                while root.right.left!=None:
+                    root=root.right
+                    root.right=root.right.left
+                root.right.val=target
+                root.val=root.right.val
+                root.right=self.delete(root.right, target)
+        
+        return root
     def search(self, root, target):
         """
         :type root: TreeNode

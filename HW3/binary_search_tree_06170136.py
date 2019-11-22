@@ -78,12 +78,12 @@ class Solution(object):
             return root
         elif target<root.val:
             if root.left!=0:
-                root.search(root.left,target)
+                return root.search(root.left,target)
             else:
                 return None 
         else:
             if root.right!=0:
-                root.search(root.right,target)
+                return root.search(root.right,target)
             else:
                 return None 
             
@@ -97,12 +97,12 @@ class Solution(object):
         while root.left!=None:
             self.modify(self, root.left, target, new_val)
         while root.right!=None:
-             self.modify(self, root.right, target, new_val)
+            self.modify(self, root.right, target, new_val)
         if target=root.val:
             self.insert(root,new_val)
             self.delete(root,target)
-        else:
-            return root
+        
+        return root
 """
 參考網址:https://www.google.com/url?q=https://youtu.be/YlgPi75hIBc&sa=D&ust=1573899284113000&usg=AFQjCNEeK-0kWFD7MSL8bB85iUq0EM_4Pw
 

@@ -96,7 +96,7 @@ class Solution(object):
             self.modify(self, root.left, target, new_val)
         while root.right!=None:
              self.modify(self, root.right, target, new_val)
-        if root.val=target:
+        if target=root.val:
             self.insert(root,new_val)
             self.delete(root,target)
         else:

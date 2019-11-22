@@ -16,19 +16,21 @@ class Solution(object):
         :type val: int
         :rtype: TreeNode(inserted node)
         """
-        if self.root==None:
-            self.root=TreeNode(val)
+        if root==None:
+            root=TreeNode(val)
         else:
             current=TreeNode(val)
             if current.val<=root.val:
                 if root.left==None:
                     root.left=current
+                    return root.left
                 else:
                     self.insert(root.left,current.val)
                 
             if current.val>root.val:
                 if root.right==None:
                     root.right=current
+                    return root.right
                 else:
                     self.insert(root.right,current.val)
                     
@@ -48,20 +50,20 @@ class Solution(object):
             if root.left==None and root.right==None:
                 self.delete(root,target)
             elif root.left!=None and root.right==None:
-                if root.left.val=target:
+                if root.left.val==target:
                     root.left=self.delete(root.left, target)
                 return root.left
             elif root.left==None and root.right!=None:
-                if root.right.val=target:
+                if root.right.val==target:
                     root.left=self.delete(root.left, target)
                 return root.right
             else: 
-                if root.left.val=target:
+                if root.left.val==target:
                     root.left=self.delete(root.left, target)
                 while root.right.left!=None:
                     root=root.right
                     root.right=root.right.left
-                root.right.val=target
+                root.right.val==target
                 root.val=root.right.val
                 root.right=self.delete(root.right, target)
         

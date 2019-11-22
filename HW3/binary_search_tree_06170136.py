@@ -68,4 +68,6 @@ class Solution(object):
 參考網址:https://www.google.com/url?q=https://youtu.be/YlgPi75hIBc&sa=D&ust=1573899284113000&usg=AFQjCNEeK-0kWFD7MSL8bB85iUq0EM_4Pw
 
 https://github.com/joeyajames/Python/blob/master/Trees/BinarySearchTree.py
+
+https://gist.github.com/jakemmarsh/8273963
 """  

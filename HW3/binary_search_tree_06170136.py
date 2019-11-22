@@ -10,11 +10,28 @@ class TreeNode(object):
         """
 class Solution(object):
     def insert(self, root, val):
+        
         """
         :type root: TreeNode
         :type val: int
         :rtype: TreeNode(inserted node)
         """
+        if self.root==None:
+            self.root=TreeNode(val)
+        else:
+            current=TreeNode(val)
+            if current.val<=root.val:
+                if root.left==None:
+                    root.left=current
+                else:
+                    self.insert(root.left,current.val)
+                
+            if current.val>root.val:
+                if root.right==None:
+                    root.right=current
+                else:
+                    self.insert(root.right,current.val)
+                    
     def delete(self, root, target):
         """
         :type root: TreeNode
@@ -27,6 +44,19 @@ class Solution(object):
         :type target: int
         :rtype: TreeNode(searched node)
         """
+        if target==root.val:
+            return root
+        elif target<root.val:
+            if root.left!=0:
+                root.search(root.left,target)
+            else:
+                return None 
+        else:
+            if root.right!=0:
+                root.search(root.right,target)
+            else:
+                return None 
+            
     def modify(self, root, target, new_val):
         """
         :type root: TreeNode

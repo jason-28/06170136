@@ -18,6 +18,7 @@ class Solution(object):
         """
         if root==None:
             root=TreeNode(val)
+            return root
         else:
             current=TreeNode(val)
             if current.val<=root.val:

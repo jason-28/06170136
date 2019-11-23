@@ -25,14 +25,14 @@ class Solution(object):
                     root.left=current
                     return root.left
                 else:
-                    self.insert(root.left,current.val)
+                    self.insert(root.left,val)
                 
             if current.val>root.val:
                 if root.right==None:
                     root.right=current
                     return root.right
                 else:
-                    self.insert(root.right,current.val)
+                    self.insert(root.right,val)
                     
     def delete(self, root, target):
         """
@@ -98,7 +98,7 @@ class Solution(object):
             self.modify(self, root.left, target, new_val)
         while root.right!=None:
             self.modify(self, root.right, target, new_val)
-        if target=root.val:
+        if target==root.val:
             self.insert(root,new_val)
             self.delete(root,target)
         

@@ -26,14 +26,14 @@ class Solution(object):
                     root.left=current
                     return root.left
                 else:
-                    self.insert(root.left,val)
+                    self.insert(root.left,current.val)
                 
             if current.val>root.val:
                 if root.right==None:
                     root.right=current
                     return root.right
                 else:
-                    self.insert(root.right,val)
+                    self.insert(root.right,current.val)
                     
     def delete(self, root, target):
         """

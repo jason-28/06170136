@@ -8,7 +8,13 @@
 
 
 # 學習歷程
+這次的Hash Table我覺得概念比較好理解，所以實作上遇到的問題比較沒那麼多。
 
+主要是在做新增的時候花了些時間才了解該放的東西是self.data的值而不是自己所設的cur,
+
+移除的邏輯也是經過和同學的討論才有想通該怎麼進行內部位子的調整。
+
+包含的部分倒是沒什麼問題，很快就想出來了，但還是直到最後移除的確認無誤後才能確定。
 
 # Hash Table原理
 
@@ -35,3 +41,5 @@ Contains：
 否則將cur.next變成新的cur繼續執行。直到最後都沒有才回傳False
 
 ### 參考資料:
+http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html
+https://medium.com/100-days-of-python/day-09-hash-table-chaining-ef74baa6732

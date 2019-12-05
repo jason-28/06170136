@@ -44,4 +44,5 @@ Contains：
 
 ### 參考資料:
 http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html
+
 https://medium.com/100-days-of-python/day-09-hash-table-chaining-ef74baa6732

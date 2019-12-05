@@ -16,7 +16,11 @@
 包含的部分倒是沒什麼問題，很快就想出來了，但還是直到最後移除的確認無誤後才能確定。
 
 # Hash Table原理
+雜湊表是透過key值在內部資料搜尋位置的一種資料結構
 
+capacity代表資料的容量,Key值是外部輸入的值,會用來經由Hash function回傳儲存位置
+
+可能會出現衝突(兩筆資料存在一起,導致回傳的value不一樣)
 
 # Hash function原理
 首先在Hash Set裡多寫了一個將測值變成16進位數值的defunction
@@ -45,3 +49,5 @@ Contains：
 http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html
 
 https://medium.com/100-days-of-python/day-09-hash-table-chaining-ef74baa6732
+
+https://zh.wikipedia.org/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8

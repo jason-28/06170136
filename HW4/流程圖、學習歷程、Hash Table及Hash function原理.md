@@ -22,6 +22,8 @@ capacity代表資料的容量,Key值是外部輸入的值,會用來經由Hash fu
 
 可能會出現衝突(兩筆資料存在一起,導致回傳的value不一樣)
 
+上述問題可透過Linked list串接資料來解決
+
 # Hash function原理
 首先在Hash Set裡多寫了一個將測值變成16進位數值的defunction
 

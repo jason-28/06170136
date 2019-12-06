@@ -37,7 +37,7 @@ class MyHashSet:
         while cur!=None:
             if cur.val==num:
                 self.data[i]=cur.next
-                return self.data[i]
+                return
             else:
                 cur=cur.next
             return

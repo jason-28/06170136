@@ -54,4 +54,8 @@ https://medium.com/100-days-of-python/day-09-hash-table-chaining-ef74baa6732
 
 https://zh.wikipedia.org/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8
 
+程式碼概念參考:
+
+https://github.com/aaron1aaron2/my-learning-note
+
 https://kite.com/python/examples/2084/crypto-generate-a-new-md5-hash

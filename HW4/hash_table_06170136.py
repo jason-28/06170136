@@ -35,16 +35,18 @@ class MyHashSet:
     def remove(self, key):
         num=self.hexdigest(key)
         i=num%self.capacity
-        cur=self.data[i]
         
-        while cur!=None:
-            if cur.val==num:
-                self.data[i]=cur.next
-                return 
-            else:
-                cur=cur.next
+        if self.data[i]==None:
             return
+        else:
+            cur=self.data[i]
         
+            while cur!=None:
+                if cur.val==num:
+                    cur.val=False
+                    break
+                cur=cur.next
+                
     def contains(self, key):
         num=self.hexdigest(key)
         i=num%self.capacity

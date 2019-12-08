@@ -36,21 +36,22 @@ class MyHashSet:
         num=self.hexdigest(key)
         i=num%self.capacity
         
-        if self.data[i]==None:
-            return
-        else:
+        if self.data[i]!=None:
             cur=self.data[i]
-        
             while cur!=None:
                 if cur.val==num:
                     cur.val=False
                     break
                 cur=cur.next
+        else:
+            return
+        
                 
     def contains(self, key):
         num=self.hexdigest(key)
         i=num%self.capacity
         cur=self.data[i]
+        
         while cur!=None:
             if cur.val==num:
                 return True

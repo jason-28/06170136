@@ -20,14 +20,10 @@ class MyHashSet:
         num=self.hexdigest(key)
         i=num%self.capacity
         cur=self.data[i]
-        new=ListNode(num)
-        new.next=self.data[i]
-        self.data[i]=new
-        
-        while cur!=None:
+        self.data[i]=ListNode(num)
+        if cur!=None:
             if cur.val==num:
                 pass
-            cur=cur.next
             
     def remove(self, key):
         num=self.hexdigest(key)

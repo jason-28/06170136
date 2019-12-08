@@ -1,4 +1,3 @@
-from Crypto.Hash import MD5
 class ListNode:
     def __init__(self, val):
         self.val = val
@@ -17,13 +16,21 @@ class MyHashSet:
         return num 
     
     def add(self, key):
-        num=self.hexdigest(key)
-        i=num%self.capacity
-        cur=self.data[i]
-        self.data[i]=ListNode(num)
-        if cur!=None:
-            if cur.val==num:
-                pass
+        if self.contains(key) is False:
+            num=self.hexdigest(key)
+            i=num%self.capacity
+            cur=self.data[i]
+            if cur==None:
+                self.data[i]=ListNode(num)
+            else:
+                while cur!=None:
+                    if cur.next==None:
+                        cur.next=ListNode(num)
+                    else:
+                        cur=cur.next
+                        return
+        else:
+            pass
             
     def remove(self, key):
         num=self.hexdigest(key)
@@ -33,7 +40,7 @@ class MyHashSet:
         while cur!=None:
             if cur.val==num:
                 self.data[i]=cur.next
-                return
+                return 
             else:
                 cur=cur.next
             return

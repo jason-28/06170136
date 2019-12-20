@@ -1,11 +1,9 @@
 
 # 流程圖
 
-![]()
+![](https://github.com/jason-28/06170136/blob/master/img/S__27435071.jpg)
 
-![]()
-
-![]()
+![](https://github.com/jason-28/06170136/blob/master/img/S__27435073.jpg)
 
 # 學習歷程
 

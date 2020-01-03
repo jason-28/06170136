@@ -27,6 +27,7 @@ class Graph():
                                 last[n] = last[j] + N_node[n]
                             else:
                                 pass
+            self.graph[i][i] = 0
             result[str(i)] = self.graph[i][s]
         self.graph[i] = last
 

@@ -1,12 +1,9 @@
 # Merge Sort:
 
-合併排序是一種 Divide and Conquer 的演算法，它是將一個 array 分解為幾個 sub array，直到每個 sub array 由一個元素組成，然後以產生排序列表的方式合併這些子列表。
+### 步驟：
 
-
-大致分成三個步驟：
-
-1. **切分**: 將未排序的 array 劃分為 sub array，當每個 sub array 就是每個 element 時。
-2. **比較合併**: 將相鄰的兩個 sub array ，互相比較第一個 element ，並取較小值則為以排序值，以排序值可以用新 array 存或是用 index 的方式將其隔開。
-3. 重複該過程，直到所有 sub array 都合併成一個 array 。
+1. **分割**: 將未排序的array分解成每個各只有一個元素的array。
+2. **比較合併**: 將相鄰的兩個 array ，互相比較第一個元素，並取較小值為已排序的值，已排序值用新建的空list存取。
+3. 重複該過程，直到新array的長度等於原 。
 
 <img src="https://www.studytonight.com/data-structures/images/merge-sort-working.png" height=850 weight=650>

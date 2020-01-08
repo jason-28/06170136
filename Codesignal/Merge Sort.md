@@ -9,3 +9,4 @@
 2. **比較合併**: 將相鄰的兩個 sub array ，互相比較第一個 element ，並取較小值則為以排序值，以排序值可以用新 array 存或是用 index 的方式將其隔開。
 3. 重複該過程，直到所有 sub array 都合併成一個 array 。
 
+<img src="https://www.studytonight.com/data-structures/images/merge-sort-working.png" height=850 weight=650>

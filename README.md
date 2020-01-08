@@ -48,7 +48,7 @@ Week18:No Class
 
 # [Leetcode](https://github.com/jason-28/06170136/tree/master/Leetcode)
 
-# [CS50]()
+# [CS50](https://github.com/jason-28/06170136/tree/master/CS50)
 
 # 作業
 

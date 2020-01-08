@@ -23,19 +23,19 @@ class MyLinkedList:
 
     def addAtHead(self, val: int) -> None:
  
-        Nhead=node(val)
+        N_head=node(val)
         if self.len==0:
-            self.head=Nhead
+            self.head=N_head
         else:
-            Nhead.next=self.head
-            self.head=Nhead
+            N_head.next=self.head
+            self.head=N_head
         self.len+=1
       
     def addAtTail(self, val: int) -> None:
      
-        Ntail=node(val)
+        N_tail=node(val)
         if self.len==0:
-            self.head=Ntail
+            self.head=N_tail
         else:
             value=self.head
             for i in range(self.len):
@@ -43,12 +43,12 @@ class MyLinkedList:
                     value=value.next
                 else:
                     break
-            value.next=Ntail
+            value.next=N_tail
         self.len+=1
             
     def addAtIndex(self, index: int, val: int) -> None:
     
-        add_item=node(val)
+        add_node=node(val)
         if index>self.len:
             return -1
         elif index<=0 or self.len==0:
@@ -57,8 +57,8 @@ class MyLinkedList:
             value=self.head
             for i in range(self.len):
                 if i==(index-1):
-                    add_item.next=value.next 
-                    value.next=add_item     
+                    add_node.next=value.next 
+                    value.next=add_node     
                 else:
                     value=value.next 
             self.len+=1
@@ -67,19 +67,22 @@ class MyLinkedList:
  
         if index>=self.len or self.len==0 or index<0:
             return -1
-        elif self.len==1:
-            self.head=None
-            self.len=0
+        
         elif index==0:
             value = self.head
             self.head = value.next
             self.len-=1
+        
+        elif self.len==1:
+            self.head=None
+            self.len=0
+                
         else:
             value = self.head
             for i in range(index):
                 if i==(index-1):
-                    del_item=value.next 
-                    value.next=del_item.next
+                    del_node=value.next 
+                    value.next=del_node.next
                 else:
                     value = value.next 
             self.len-=1

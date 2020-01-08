@@ -6,7 +6,7 @@
 
 系級:巨資三A
 
-# Week1~18
+# Week1~Week18
 
 Week1:No Class
 
@@ -46,4 +46,18 @@ Week17:Final
 
 Week18:No Class
 
-### [LeetCode]()
+### [Leetcode](https://github.com/jason-28/06170136/tree/master/Leetcode)
+
+# 作業
+
+### [HW1]()
+
+### [HW2]()
+
+### [HW3]()
+
+### [HW4]()
+
+### [HW5]()
+
+### [HW6]()

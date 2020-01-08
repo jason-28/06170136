@@ -50,9 +50,10 @@ Week18:No Class
 
 # [Codesignal](https://github.com/jason-28/06170136/tree/master/Codesignal)
 
-# 作業
+# Homeworks:
 
 ### [HW1](https://github.com/jason-28/06170136/tree/master/HW1)
+
 ### [HW2](https://github.com/jason-28/06170136/tree/master/HW2)
 
 ### [HW3](https://github.com/jason-28/06170136/tree/master/HW3)

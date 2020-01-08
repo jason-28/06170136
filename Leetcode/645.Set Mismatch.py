@@ -1,7 +1,8 @@
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
         n=len(nums) 
-        s=set(nums) 
-        mis=n*(n+1)/2-sum(s)
+        s=set(nums)
+        
         res=sum(nums)-sum(s)
-        return[res,mis]
+        miss=n*(n+1)/2-sum(s)
+        return[res,miss]

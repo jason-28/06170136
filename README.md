@@ -51,17 +51,17 @@
 # Leetcode 
 ### [點此前往](https://github.com/jason-28/06170136/tree/master/Leetcode)
 
-* [1_Two Sum](https://github.com/jason-28/06170136/blob/master/Leetcode/1_Two%20Sum_06170136.py)
+      - [1_Two Sum](https://github.com/jason-28/06170136/blob/master/Leetcode/1_Two%20Sum_06170136.py)
 
-* [155_Min Stack](https://github.com/jason-28/06170136/blob/master/Leetcode/155_Min%20Stack_06170136.py)
+      - [155_Min Stack](https://github.com/jason-28/06170136/blob/master/Leetcode/155_Min%20Stack_06170136.py)
 
-* [206_Reverse Linked List_06170136.py](https://github.com/jason-28/06170136/blob/master/Leetcode/206_Reverse%20Linked%20List_06170136.py)
+      - [206_Reverse Linked List_06170136.py](https://github.com/jason-28/06170136/blob/master/Leetcode/206_Reverse%20Linked%20List_06170136.py)
 
-* [226_Invert Binary Tree](https://github.com/jason-28/06170136/blob/master/Leetcode/226_Invert%20Binary%20Tree_06170136.py)
+      - [226_Invert Binary Tree](https://github.com/jason-28/06170136/blob/master/Leetcode/226_Invert%20Binary%20Tree_06170136.py)
 
-* [645_Set Mismatch](https://github.com/jason-28/06170136/blob/master/Leetcode/645_Set%20Mismatch_06170136.py)
+      - [645_Set Mismatch](https://github.com/jason-28/06170136/blob/master/Leetcode/645_Set%20Mismatch_06170136.py)
 
-* [965_Univalued Binary Tree](https://github.com/jason-28/06170136/blob/master/Leetcode/965_Univalued%20Binary%20Tree_06170136.py)
+      - [965_Univalued Binary Tree](https://github.com/jason-28/06170136/blob/master/Leetcode/965_Univalued%20Binary%20Tree_06170136.py)
 
 
 # CS50
@@ -73,7 +73,7 @@
       - [1. Add](https://github.com/jason-28/06170136/blob/master/Codesignal/Intro/1.Add.py)</br>
       - [2. Century From Year](https://github.com/jason-28/06170136/blob/master/Codesignal/Intro/2.Century%20From%20Year.py)</br>
       - [3. Check Palindrome](https://github.com/jason-28/06170136/blob/master/Codesignal/Intro/3.Check%20Palindrome.py)</br>
- **[Python](https://github.com/jason-28/06170136/tree/master/Codesignal/Python)**</br>
+**[Python](https://github.com/jason-28/06170136/tree/master/Codesignal/Python)**</br>
        - [5. Count Bits](https://github.com/jason-28/06170136/blob/master/Codesignal/Python/5.Count%20Bits.py)</br>
        - [6. Modulus](https://github.com/jason-28/06170136/blob/master/Codesignal/Python/6.Modulus.py)</br>
        - [7. Simple Sort](https://github.com/jason-28/06170136/blob/master/Codesignal/Python/7.Simple%20Sort.py)</br>

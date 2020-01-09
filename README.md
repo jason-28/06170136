@@ -51,13 +51,13 @@ Week17:Final
 Week18:No Class
 
 # Leetcode
-* [點此前往](https://github.com/jason-28/06170136/tree/master/Leetcode)
+## [點此前往](https://github.com/jason-28/06170136/tree/master/Leetcode)
 
 # CS50
-* [點此前往](https://github.com/jason-28/06170136/tree/master/CS50)
+## [點此前往](https://github.com/jason-28/06170136/tree/master/CS50)
 
 # Codesignal
-* [點此前往](https://github.com/jason-28/06170136/tree/master/Codesignal)
+## [點此前往](https://github.com/jason-28/06170136/tree/master/Codesignal)
 
 # Homeworks:
 

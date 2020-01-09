@@ -1,4 +1,4 @@
-這邊放Codesignal練習的解答
+這邊放Codesignal練習的程式碼解答
 * 一、 **[Intro](https://github.com/jason-28/06170136/tree/master/Codesignal/Intro)**</br>
       - [1. Add](https://github.com/jason-28/06170136/blob/master/Codesignal/Intro/1.Add.py)</br>
       - [2. Century From Year](https://github.com/jason-28/06170136/blob/master/Codesignal/Intro/2.Century%20From%20Year.py)</br>

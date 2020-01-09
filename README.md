@@ -62,13 +62,22 @@ Week18:No Class
 * [QuickSort 程式碼]()
 * [QuickSort 流程圖、學習歷程]()
 ### HW2
-
+* [HeapSort 程式碼]()
+* [MergeSort 程式碼]()
+* [HeapSort 流程圖、學習歷程]()
+* [MergeSort 流程圖、學習歷程]()
+* [HeapSort & MergeSort 比較]()
 ### HW3
-
+* []()
+* []()
+* []()
 ### HW4
-
+* []()
+* []()
 ### HW5
-
+* []()
+* []()
 ### HW6
-
+* []()
+* []()
 # 課程心得:

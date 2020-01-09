@@ -12,12 +12,15 @@
 
 # Week1~Week18
 
-## Week1:No Class
+## Week1:
+*　No Class
 
-Week2: [Linedist](https://github.com/jason-28/06170136/blob/master/Note/Linkedlist.md)
+＃Week2:
+*　[Linedist](https://github.com/jason-28/06170136/blob/master/Note/Linkedlist.md)
 
-Week3: [Stack&Queue](https://github.com/jason-28/06170136/blob/master/Note/Stack%26Queue.md)
- /[Set](https://github.com/jason-28/06170136/blob/master/Note/Set.md)
+Week3: 
+*　[Stack&Queue](https://github.com/jason-28/06170136/blob/master/Note/Stack%26Queue.md)
+ /*　[Set](https://github.com/jason-28/06170136/blob/master/Note/Set.md)
 
 Week4:[Insertion Sort](https://github.com/jason-28/06170136/blob/master/Note/Insertion%20Sort.md)
 /[Quick Sort](https://github.com/jason-28/06170136/blob/master/Note/Quick%20Sort.md)

@@ -8,7 +8,7 @@
 
 * 系級:巨資三A
 
-**會使用的程式:Python,R**
+* 會使用的程式:Python,R
 
 # Week1~Week18
 

@@ -12,7 +12,7 @@
 
 # Week1~Week18
 
-Week1:No Class
+## Week1:No Class
 
 Week2: [Linedist](https://github.com/jason-28/06170136/blob/master/Note/Linkedlist.md)
 

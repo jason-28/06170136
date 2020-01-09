@@ -1,7 +1,7 @@
 # Red Black Tree
 
 ## 定義:
-紅黑樹是以樹的資料結構為基礎延伸的資料結構(為了解決一般二元樹的不平衡問題,避免退化成Linked List)
+紅黑樹是以樹的資料結構為基礎延伸的資料結構(為了解決一般二元樹的不平衡問題,避免其退化成Linked List)
 
 ![](https://yotsuba1022.gitbooks.io/data-structure-note/content/assets/rbtree-1.png)
 

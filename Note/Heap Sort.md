@@ -1,5 +1,8 @@
 # Heap Sort:
 
+<img src='https://i.imgur.com/u6OeFbC.png' height=400 weight=673>
+
+
 Heap(堆)是一個以Binary Tree為基礎的資料結構,分為Max Heap(最上方節點值最大)及Min Heap(最上方節點值最小)
 
 Heap Sort的概念就是先分堆,再依照Max/Min來比節點的大小,直到Heap裡剩下一個值

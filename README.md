@@ -1,6 +1,6 @@
 # Welcome!
 
-這裡有我大三上的**資料結構與演算法**課程中的上課內容，包含作業、Leetcode、Codesignal的解答與學習歷程，另外也會有CS50與課堂筆記
+這裡有我大三上**資料結構與演算法**課程中的上課相關內容，包含作業、Leetcode、Codesignal、CS50與課堂筆記
 
 # About Me:
 
@@ -30,19 +30,19 @@ Week7:[Merge Sort](https://github.com/jason-28/06170136/blob/master/Note/Merge%2
 
 Week8:[Binary Tree](https://github.com/jason-28/06170136/blob/master/Note/Binary%20Tree.md)
 
-Week9:[Binary Search Tree]()
+Week9:[Binary Search Tree](https://github.com/jason-28/06170136/blob/master/Note/Binary%20Search%20Tree.md)
 
-Week10:[Red Black Tree]()
+Week10:[Red Black Tree](https://github.com/jason-28/06170136/blob/master/Note/Red%20Black%20Tree.md)
 
-Week11:[Hash Table]()
+Week11:[Hash Table](https://github.com/jason-28/06170136/blob/master/Note/Hash%20Table.md)
 
-Week12:[Breadth-First Search]()
+Week12:[Breadth-First Search](https://github.com/jason-28/06170136/blob/master/Note/Breadth%20First%20Search.md)
 
-Week13:[Depth-First Search]()
+Week13:[Depth-First Search](https://github.com/jason-28/06170136/blob/master/Note/Depth%20First%20Search.md)
 
-Week14:[Minimum Spanning Tree]()
+Week14:[Minimum Spanning Tree](https://github.com/jason-28/06170136/blob/master/Note/Minimum%20Spanning%20Tree.md)
 
-Week15:[Shortest Path]()
+Week15:[Shortest Path](https://github.com/jason-28/06170136/blob/master/Note/Shortest%20Path.md)
 
 Week16:Overview
 

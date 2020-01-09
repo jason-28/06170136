@@ -10,8 +10,9 @@ DFS也是一種用於遍歷或搜尋樹或圖的演算法。先往某個方向�
 ## DFS VS. BFS 
 ![](https://i.imgur.com/gPqpwpO.png)
 
-* DFS是挑一邊走到底，再回頭找(使用Stack的資料型態)
-* BFS則是先以最接近的那一層開始找(使用Queue的資料型態)
+DFS是挑一邊走到底，再回頭找(使用Stack的資料型態)
+
+BFS則是先以最接近的那一層開始找(使用Queue的資料型態)
 - DFS: 以單一邊優先
 - BFS: 以階層優先
 

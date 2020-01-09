@@ -13,7 +13,7 @@
 # Week1~Week18
 
 ## Week1:
-*　No Class
+*No Class
 
 ＃Week2:
 

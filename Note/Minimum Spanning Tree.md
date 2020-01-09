@@ -1,6 +1,6 @@
 # Minimum Spanning Tree 
 
-## 定義
+## 定義:
 
 MST是一種貪婪演算法的應用，著重在點與點之間的量值(cost、weight、spend time)，是以 **邊** 為主體紀錄的資料結構。
 
@@ -8,7 +8,7 @@ MST是一種貪婪演算法的應用，著重在點與點之間的量值(cost、
 
 ![](https://i.imgur.com/V2FHxJF.png)
 
-### 步驟
+### 步驟:
 ![](https://i.imgur.com/szk1jSN.png)
 
 1. 生成記錄邊和權重的表

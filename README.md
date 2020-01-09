@@ -59,10 +59,8 @@ Week18:No Class
 # Homeworks:
 
 ### HW1
-
 * [QuickSort 程式碼]()
 * [QuickSort 流程圖、學習歷程]()
-
 ### HW2
 
 ### HW3

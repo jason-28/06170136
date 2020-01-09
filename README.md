@@ -1,8 +1,14 @@
+# Welcome!
+
+這裡有我大三上的**資料結構與演算法**課程中的上課內容，包含作業、Leetcode、Codesignal的解答與學習歷程，另外也會有CS50與課堂筆記
+
 # About Me:
 
 **姓名:陳應中**
 
 **系級:巨資三A**
+
+**使用程式:Python,R**
 
 # Week1~Week18
 
@@ -63,3 +69,5 @@ Week18:No Class
 ### [HW5](https://github.com/jason-28/06170136/tree/master/HW5)
 
 ### [HW6](https://github.com/jason-28/06170136/tree/master/HW6)
+
+# 課程心得:

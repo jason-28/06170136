@@ -8,10 +8,10 @@ Hash table是一種用來儲存Key&Value的資料結構。使用Hash Function將
 
 Hash Table由下列三者組成：
 
-### Key:
+### Key
   - 作為獨立的索引，通常為字串。
-### Hash Function:
+### Hash Function
   - 通過算式將Key值轉換成能對應特定的Index值。
   - 一個Key會有對應且獨立的Bucket，但目前大多數的設計都會有碰撞問題(不同的Key經過轉換後會對應到相同Bucket)
-### Bucket:
+### Bucket
   - 一個有多個位置可以儲存資料的Array，裡面可以是空的，也可以放入其它類型的資料結構(EX：Linked-List)

@@ -62,6 +62,8 @@ Week18:No Class
 
 * [QuickSort 程式碼]()
 
+* [QuickSort 流程圖、學習歷程]()
+
 ### [HW2](https://github.com/jason-28/06170136/tree/master/HW2)
 
 ### [HW3](https://github.com/jason-28/06170136/tree/master/HW3)

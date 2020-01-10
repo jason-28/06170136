@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=9qvt6MwBKZQ
 
 但不看又覺得自己英文沒那麼好,只好把不太懂的部分多看幾次
 
+## 筆記
+
 大概接近5分鐘後講者開始提Linked list
 
 影片提到Array跟Linked List的差別

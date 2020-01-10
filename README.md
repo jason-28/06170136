@@ -67,7 +67,7 @@
 # CS50
 ### [點此前往](https://github.com/jason-28/06170136/tree/master/CS50)
 
-* [Week8 Note](https://github.com/jason-28/06170136/blob/master/CS50/Week8.md)
+* [Week8 Note](https://github.com/jason-28/06170136/blob/master/CS50/Week8%20Note.md)
 
 # Codesignal
 ### [點此前往](https://github.com/jason-28/06170136/tree/master/Codesignal)

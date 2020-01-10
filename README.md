@@ -8,7 +8,7 @@
 - [5.Codesignal](#Codesignal)
 - [6.Homeworks](#Homeworks)
 - [7.課程心得](#課程心得)
-# About Me:
+# About Me
 
 ### **陳應中** (Jason)
 

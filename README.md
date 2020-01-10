@@ -6,7 +6,7 @@
 - [3.Leetcode](#Leetcode)
 - [4.CS50](#CS50)
 - [5.Codesignal](#Codesignal)
-- [6.Homeworks](#Homeworks)
+- [6.Homework](#Homework)
 - [7.課程心得](#課程心得)
 # About Me
 
@@ -84,7 +84,7 @@
        - [10. List Beautifier](https://github.com/jason-28/06170136/blob/master/Codesignal/Python/10.List%20Beautifier.py)</br>
 
 
-# Homeworks:
+# Homework:
 
 ### HW1
 * [QuickSort 程式碼](https://github.com/jason-28/06170136/blob/master/HW1/QuickSort.ipynb)

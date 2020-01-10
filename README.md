@@ -1,8 +1,8 @@
 # Welcome!
 
 這裡有我大三上**資料結構與演算法**課程中的上課相關內容，包含作業、Leetcode、Codesignal、CS50與課堂筆記
-- [1.About Me](#AboutMe)
-- [2.課堂進度](#Week1Week18)
+- [1.About Me](#About-Me)
+- [2.課程進度](#課程進度)
 - [3.Leetcode](#Leetcode)
 - [4.CS50](#CS50)
 - [5.Codesignal](#Codesignal)
@@ -16,7 +16,7 @@
 
 * 會使用的程式:Python,R
 
-# Week1~Week18
+# 課程進度
 
 ### Week1:No Class
 
